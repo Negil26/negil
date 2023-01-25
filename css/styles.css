@@ -1,0 +1,201 @@
+* {
+  /* margin: 0;
+  padding: 0; */
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  font-size: ;
+}
+h1 {
+  font-size: 4.5rem;
+  line-height: 2;
+  /* width: 10%; */
+  color: #66bfbf;
+  /* font-family: "roboto", cursive; */
+  font-family: "Sacramento", cursive;
+  position: relative;
+  margin-top: 20px;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-family: "Montserrat", sans-serif;
+  color: #66bfbf;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #11999e;
+  font-weight: bold;
+}
+
+div {
+  /* background-color: #e4f9f5; */
+}
+.top-container {
+  background-color: #eaf6f6;
+
+  position: relative;
+  padding-top: 5rem;
+}
+
+.middle-container {
+}
+
+.bottom-container {
+}
+
+.dev {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 15rem;
+  top: 3rem;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 15.6rem;
+  bottom: 20rem;
+}
+
+img .mountain-1 {
+  position: absolute;
+  margin-top: 20rem;
+}
+
+.profile-picture {
+  width: 180px;
+  height: 180px;
+  margin-top: 4rem;
+  text-align: left;
+  line-height: 1.6;
+}
+
+.about-myself {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 1.6;
+  margin-top: 2rem;
+}
+
+.skill-icons {
+  width: 300px;
+  height: 300px;
+  margin: 0;
+  border-radius: 50%;
+  /* text-align: left; */
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 1.6;
+
+  text-align: left;
+}
+
+.middle-container {
+}
+
+.code-img {
+  width: 170px;
+  height: 170px;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chilli-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+/* .code-skill-description {
+  clear: left;
+}
+.chilli-skill-description {
+  clear: right;
+} */
+
+hr {
+  width: 5%;
+  border-width: 8px;
+  color: #eaf6f6;
+  border-style: none;
+  border-top-style: dotted;
+}
+
+.skills {
+  padding-top: 4rem;
+}
+
+.contact-me {
+  padding-top: 4rem;
+}
+
+.btn-contact {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border-radius: 8px;
+  position: relative;
+  padding: 0.5em 1.2em 0.5em 1.2em;
+  text-align: center;
+  font-size: 1rem;
+  background-color: #11cdd4;
+  color: white;
+  border-style: none;
+  font-weight: 600;
+}
+.btn-contact:hover {
+  background-color: #30e3cb;
+}
+.btn-contact:hover {
+  background-color: #2bc4ad;
+}
+
+.more-about-me {
+  text-align: center;
+  line-height: 1.6;
+}
+
+a {
+  color: #11999e;
+}
+a:hover {
+  color: #eaf6f6;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+
+  padding: 50px 0 20px;
+}
+
+.copyright {
+  color: white;
+  padding-top: 14px;
+}
+a:link {
+  margin-left: 30px;
+  color: #0a58a5;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+p {
+  color: #40514e;
+  font-weight: 500;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  padding-top: 3em;
+}
